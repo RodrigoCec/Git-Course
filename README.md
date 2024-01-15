@@ -8,3 +8,8 @@ Prácticas-
   
 Programa    
    - Programa de un dado en Java
+
+
+Video tutorial
+
+  https://www.youtube.com/watch?v=HiXLkL42tMU
