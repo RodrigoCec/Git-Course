@@ -6,6 +6,5 @@ Prácticas-
   * Crear repositorio de algún programa y guardar estados continuamente
   * Volver a crear 3 versiones con un añadido en cada una
   
-Programa 
-    
-    - Programa de un dado en Java
+Programa    
+   - Programa de un dado en Java
